@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/11/08 16:43:16.000.743,=C:\Users\victor.ramires\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/14 17:03:23.986,=C:\Users\victor.ramires\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/14 17:03:49.515,C:\Users\victor.ramires\Desktop\SistemaClinica\UnitPrincipal.pas=C:\Users\victor.ramires\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/11/14 17:03:49.515,C:\Users\victor.ramires\Desktop\SistemaClinica\UnitPrincipal.dfm=C:\Users\victor.ramires\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/11/14 17:04:04.846,C:\Users\victor.ramires\Desktop\SistemaClinica\Clinica.dproj=C:\Users\victor.ramires\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/11/14 17:46:20.492,=C:\Users\victor.ramires\Desktop\SistemaClinica\Unit2.pas</Transaction>
+    <Transaction>2024/11/14 17:46:42.166,C:\Users\victor.ramires\Desktop\SistemaClinica\unitCadPacientes.dfm=C:\Users\victor.ramires\Desktop\SistemaClinica\Unit2.dfm</Transaction>
+    <Transaction>2024/11/14 17:46:42.166,C:\Users\victor.ramires\Desktop\SistemaClinica\unitCadPacientes.pas=C:\Users\victor.ramires\Desktop\SistemaClinica\Unit2.pas</Transaction>
+    <Transaction>2024/11/14 17:46:58.525,=C:\Users\victor.ramires\Desktop\SistemaClinica\Unit3.pas</Transaction>
+    <Transaction>2024/11/14 17:47:07.838,C:\Users\victor.ramires\Desktop\SistemaClinica\unitCadAgendamentos.pas=C:\Users\victor.ramires\Desktop\SistemaClinica\Unit3.pas</Transaction>
+    <Transaction>2024/11/14 17:47:07.838,C:\Users\victor.ramires\Desktop\SistemaClinica\unitCadAgendamentos.dfm=C:\Users\victor.ramires\Desktop\SistemaClinica\Unit3.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
