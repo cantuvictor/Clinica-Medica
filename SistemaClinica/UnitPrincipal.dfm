@@ -47271,8 +47271,6 @@ object formPrincipal: TformPrincipal
       Layout = blGlyphTop
       TabOrder = 0
       OnClick = BitBtn1Click
-      ExplicitLeft = 1
-      ExplicitHeight = 103
     end
     object BitBtn2: TBitBtn
       Left = 1
@@ -47503,7 +47501,6 @@ object formPrincipal: TformPrincipal
       Layout = blGlyphTop
       TabOrder = 1
       OnClick = BitBtn2Click
-      ExplicitHeight = 103
     end
   end
   object MainMenu1: TMainMenu

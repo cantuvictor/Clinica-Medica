@@ -41,22 +41,22 @@ uses unitCadPacientes, unitCadAgendamentos;
 
 procedure TformPrincipal.Agendamentos1Click(Sender: TObject);
 begin
-  formCadAgendamentos.ShowModal;
+   formCadAgendamentos.ShowModal;
 end;
 
 procedure TformPrincipal.BitBtn1Click(Sender: TObject);
 begin
-  formCadAgendamentos.ShowModal;
+   formCadAgendamentos.ShowModal;
 end;
 
 procedure TformPrincipal.BitBtn2Click(Sender: TObject);
 begin
-  formCadPacientes.ShowModal;
+   formCadPacientes.ShowModal;
 end;
 
 procedure TformPrincipal.Pacientes1Click(Sender: TObject);
 begin
-  formCadPacientes.ShowModal;
+   formCadPacientes.ShowModal;
 end;
 
 procedure TformPrincipal.Sair1Click(Sender: TObject);
