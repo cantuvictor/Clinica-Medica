@@ -61,7 +61,10 @@ end;
 
 procedure TformPrincipal.Sair1Click(Sender: TObject);
 begin
-   Application.Terminate;
-end;
+  if Application.MessageBox('Você realmente deseja sair?', 'Atenção', MB_ICONINFORMATION+MB_YESNO) = ID_YES then
+  begin
+    Application.Terminate;
+  end;
+  end;
 
 end.

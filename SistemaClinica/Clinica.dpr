@@ -3,9 +3,10 @@ program Clinica;
 uses
   Vcl.Forms,
   UnitPrincipal in 'UnitPrincipal.pas' {formPrincipal},
-  unitDM in 'unitDM.pas' {DM: TDataModule},
+  unitCadPacientes in 'unitCadPacientes.pas' {formCadPacientes},
   unitCadAgendamentos in 'unitCadAgendamentos.pas' {formCadAgendamentos},
-  unitCadPacientes in 'unitCadPacientes.pas' {formCadPacientes};
+  unitDM in 'unitDM.pas' {DM: TDataModule},
+  unitLogin in 'unitLogin.pas' {Form1};
 
 {$R *.res}
 
@@ -20,5 +21,9 @@ begin
   Application.CreateForm(TDM, DM);
   Application.CreateForm(TformCadAgendamentos, formCadAgendamentos);
   Application.CreateForm(TformCadPacientes, formCadPacientes);
+  Application.CreateForm(TformCadPacientes, formCadPacientes);
+  Application.CreateForm(TformCadAgendamentos, formCadAgendamentos);
+  Application.CreateForm(TDM, DM);
+  Application.CreateForm(TForm1, Form1);
   Application.Run;
 end.
